@@ -1,3 +1,4 @@
+
 var easy,medium,hard,hard1;
 var total=easy+medium+hard+hard1;
 window.addEventListener('DOMContentLoaded',function(){
